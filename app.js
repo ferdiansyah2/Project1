@@ -1,3 +1,3 @@
 function allert() {
     allert('hello')
-}
+} 
